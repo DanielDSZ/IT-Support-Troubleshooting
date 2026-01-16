@@ -11,3 +11,7 @@ Este material é um guia rápido e visual para fazer backup do Microsoft Outlook
 ![App Screenshot](https://github.com/DanielDSZ/IT-Support-Troubleshooting/blob/main/Backup%20Outlook/docs/5.jpg)
 ![App Screenshot](https://github.com/DanielDSZ/IT-Support-Troubleshooting/blob/main/Backup%20Outlook/docs/6.jpg)
 ![App Screenshot](https://github.com/DanielDSZ/IT-Support-Troubleshooting/blob/main/Backup%20Outlook/docs/7.jpg)
+
+## Licença
+
+[MIT](https://github.com/DanielDSZ/IT-Support-Troubleshooting/blob/main/Backup%20Outlook/LICENSE.txt)
